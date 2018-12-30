@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Responsive Modifiers
+title: opencv
 nav_order: 1
-parent: Utilities
+parent: Projects
 ---
 
 # Responsive modifiers
