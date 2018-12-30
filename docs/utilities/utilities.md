@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Projects
+title: Utilities
 nav_order: 4
 has_children: true
-permalink: docs/projects
+permalink: docs/utilities
 ---
 
 # Utilities
