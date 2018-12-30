@@ -36,10 +36,10 @@ Brute-force 알고리즘은 다른 말로 완전탐색이라고도 한다.
   
 ---
 
-#### 게임판 덮기 (BOARDCOVER)
+### 게임판 덮기 (BOARDCOVER)
 <https://algospot.com/judge/problem/read/BOARDCOVER>
 
 ---
 
-#### 시계 맞추기 (CLOCKSYNC)
+### 시계 맞추기 (CLOCKSYNC)
 <https://algospot.com/judge/problem/read/CLOCKSYNC>
